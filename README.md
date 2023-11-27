@@ -7,3 +7,5 @@
 ![preview1](img/preview1.png)
 ![preview2](img/preview2.png)
 ![preview3](img/preview3.png)
+
+Abandoned this project to learn actual tools.
